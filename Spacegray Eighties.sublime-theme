@@ -648,6 +648,7 @@
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
         "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
     },
+
     // Sidebar folder loading
     {
         "class": "icon_folder_loading",
@@ -1090,9 +1091,7 @@
         "tab_height": 40
     },
 
-//
-// REMOVING FOLDER ICONS
-//
+
     {
         "class": "icon_folder",
         "layer0.texture": "",
